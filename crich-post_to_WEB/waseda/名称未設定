@@ -1,0 +1,10 @@
+'subject_hw_opinion': hw,
+'subject_hw_easy': ast.literal_eval(survey[12])[0],
+'subject_hw_average': ast.literal_eval(survey[12])[1],
+'subject_hw_hard': ast.literal_eval(survey[12])[2]
+},
+'subject_exam': {
+'subject_exam_opinion': exam,
+'subject_exam_easy': ast.literal_eval(survey[14])[0],
+'subject_exam_average': ast.literal_eval(survey[14])[1],
+'subject_exam_hard': ast.literal_eval(survey[14])[2]
